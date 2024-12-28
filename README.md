@@ -5,7 +5,7 @@
 <h1 align="center">Ignite Timer</h1>
 <p align="center">Simple "pomodoro" app developed while following Rocketseat's React course.</p>
 
-## Image Showcase
+## Preview
 
 <img src=".github/preview.png" style="border-radius:20px;width:100%" alt="Sample preview showcasing the timer web-app in its initial state">
 
